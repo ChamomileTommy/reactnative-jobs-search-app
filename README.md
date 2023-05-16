@@ -32,10 +32,15 @@ Paste above X-RapidAPI-Key into the places that contain X-RapidAPI-Key in the pr
 
 ![My Image](./picture/paste.png)
 
-Run project and scan QR code
+Run this command if expo-cli has not been installed
 
 ```
 npm install -g expo-cli
+```
+
+Run project and scan QR code
+
+```
 expo-cli start --tunnel
 ```
 
