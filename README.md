@@ -38,7 +38,7 @@ Run this command if expo-cli has not been installed
 npm install -g expo-cli
 ```
 
-Run project and scan QR code
+Run project and scan QR code and click "go to expo go"
 
 ```
 expo-cli start --tunnel
